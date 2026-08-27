@@ -2,9 +2,9 @@
 
 ## 📋 Informações do projeto
 
-| Status | Stack | Data de início | Data de conclusão | Tempo de desenvolvimento |
-|---|---|---|---|---|
-| ✅ Finalizado | HTML, CSS e JavaScript | Agosto de 2026 | Agosto de 2026 | 3 dias |
+| 🏷️ Status | 💻 Stack | 📅 Data de início | 📅 Data de conclusão | ⏱️ Desenvolvimento |
+|:---:|:---|:---:|:---:|:---:|
+| 🟢 **Finalizado** | HTML · CSS · JavaScript | **25/08/2026** | **27/08/2026** | **3 dias** |
 
 ### 🛠️ Stack
 
