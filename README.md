@@ -1,12 +1,12 @@
 # ONGs-onfpd-templatesite
 
 Meu segundo projeto social.
- 
+
 A ideia deste projeto é criar um site para uma ONG voltada para pessoas com autismo. Pensei em fazer algo no estilo "fragmentado", já que o objetivo não é apenas criar um site funcional, mas desenvolver um site temático, visualmente interessante e persuasivo para quem acessá-lo pela primeira vez.
 
 Este projeto também é um desafio pessoal. Não quero apenas fazer mais um site, mas experimentar uma abordagem diferente de design e interação, tentando transmitir a mensagem da ONG através da própria experiência de navegação.
 
-Atualmente estou montando minhas ideias com o ChatGPT, buscando referências e ideias criativas para um tipo de contribuição que, inicialmente, eu não fazia a mínima ideia de como desenvolver.
+Atualmente, estou montando minhas ideias com o ChatGPT, buscando referências e ideias criativas para um tipo de contribuição que, inicialmente, eu não fazia a mínima ideia de como desenvolver.
 
 ---
 
@@ -26,7 +26,7 @@ A ideia é que os elementos apareçam, se encaixem e formem a composição gradu
 
 Acredito que seja uma boa ideia para testar. Se não funcionar, é só jogar tudo fora e tentar outra abordagem.
 
-A IA já faz grande parte da parte mais chata do desenvolvimento, então não faz sentido eu ter um vínculo afetivo com um código. Posso simplesmente experimentar, errar, descartar e começar novamente.
+A IA já faz grande parte da parte mais chata do desenvolvimento, então não faz sentido eu ter um vínculo afetivo com o código. Posso simplesmente experimentar, errar, descartar e começar novamente.
 
 E, sinceramente, isso é uma das coisas mais interessantes desse processo.
 
@@ -34,7 +34,7 @@ E, sinceramente, isso é uma das coisas mais interessantes desse processo.
 
 ## O primeiro grande prompt
 
-Depois de algumas ideias, pedi para o ChatGPT gerar um único prompt, sem economizar palavras, para o OpenCode gerar o início do projeto.
+Depois de algumas ideias, pedi ao ChatGPT para gerar um único prompt, sem economizar palavras, para o OpenCode gerar o início do projeto.
 
 A ideia era realmente testar até onde um único prompt conseguiria levar o desenvolvimento.
 
@@ -74,11 +74,11 @@ Decidi exigir:
 
 Um projeto desse tamanho não precisa necessariamente de toda a complexidade que estava sendo proposta.
 
-Eu poderia utilizar frameworks, bibliotecas e diversas outras ferramentas, mas neste caso isso acabaria adicionando mais coisas do que eu realmente preciso.
+Eu poderia utilizar frameworks, bibliotecas e diversas outras ferramentas, mas, neste caso, isso acabaria adicionando mais coisas do que eu realmente preciso.
 
 Infelizmente, estou reinventando a roda.
 
-Porém, com IA eu consigo reinventar essa roda em segundos e moldá-la exatamente às minhas necessidades.
+Porém, com IA, consigo reinventar essa roda em segundos e moldá-la exatamente às minhas necessidades.
 
 E isso é uma maravilha.
 
@@ -94,7 +94,7 @@ O resultado inicial ficou até legal:
 
 Mas não era exatamente o que eu tinha em mente.
 
-Então decidi não tentar consertar tudo de uma vez.
+Então, decidi não tentar consertar tudo de uma vez.
 
 Vou fazer prompt por prompt até chegar ao resultado que realmente desejo.
 
@@ -142,64 +142,49 @@ A partir daqui, a ideia é continuar construindo o restante do site seguindo ess
 
 ---
 
-## Objetivo do projeto
+## Seção de agradecimentos
 
-O objetivo não é apenas entregar um site para uma ONG.
+Na seção de agradecimentos, já tenho algo em mente, então vai ser muito fácil para a IA implementar.
 
-Quero experimentar uma forma diferente de construir uma interface para uma causa social, utilizando elementos visuais que façam parte da própria narrativa do site.
+A ideia é ter um texto à esquerda e uma imagem gerada por IA à direita. Gostei bastante do resultado.
 
-O conceito de fragmentação, as peças de quebra-cabeça, as cores, os rabiscos e as animações devem trabalhar juntos para criar uma experiência que faça sentido para quem está acessando.
-
-Também quero documentar todo o processo, incluindo as tentativas que não deram certo.
-
-Porque, neste projeto, o processo de criação é tão importante quanto o resultado final.
+<img width="871" height="418" alt="image" src="https://github.com/user-attachments/assets/cfa876e9-ded4-472d-8866-1a794ae6f094" />
 
 ---
 
-## Tecnologias
+## Última parte
 
-O projeto está sendo desenvolvido utilizando propositalmente uma stack simples:
+Para finalizar, há o número de telefone da própria ONG. Como se trata de um dado público da organização, não há problema em utilizá-lo.
+
+Mesmo assim, não vou mostrá-lo aqui.
+
+Também não vou mostrar a seção da galeria para evitar expor as imagens no GitHub. Mesmo sendo imagens públicas, prefiro não reproduzi-las nesta documentação.
+
+<img width="881" height="256" alt="image" src="https://github.com/user-attachments/assets/0556bf22-0be2-4ff6-8d87-b3f349fffabc" />
+
+---
+
+# Considerações finais
+
+O projeto foi finalizado em 3 dias. Porém, cerca de 90% do projeto já havia sido desenvolvido em aproximadamente 9 horas. O restante demorou mais por causa dos feedbacks e ajustes solicitados pelo cliente.
+
+Nada contra o cliente, e não levem isso para o lado errado: isso é apenas parte da documentação do processo.
+
+Para desenvolver o projeto, utilizei apenas:
 
 - HTML
 - CSS
 - JavaScript
 
-A ideia é evitar dependências desnecessárias e manter o projeto simples, rápido e fácil de modificar.
+Não foi necessário utilizar nada além disso.
 
-A IA está sendo utilizada como ferramenta de apoio durante o processo de desenvolvimento, principalmente para experimentação, geração de ideias, prototipação e implementação.
+Também utilizei o ChatGPT em conjunto com o OpenCode durante todo o processo.
 
----
+Todas as imagens utilizadas no projeto foram geradas pelo ChatGPT, que fez um excelente trabalho nesse aspecto.
 
-## Status
+No final, o projeto foi concluído com sucesso.
 
-🚧 Projeto em desenvolvimento.
-
-Ainda existem várias partes para serem criadas e muitos testes visuais serão realizados até chegar ao resultado final.
-
-A ideia é continuar documentando essa evolução aqui.
-
----
-
-## Observação
-
-Este projeto faz parte das minhas contribuições para projetos de impacto social.
-
-A intenção é utilizar minhas habilidades de desenvolvimento e design para criar algo que possa ser útil para uma organização real e, ao mesmo tempo, experimentar novas formas de construir interfaces.
-
-Não sei exatamente onde esse projeto vai chegar.
-
-E essa é justamente uma das partes mais interessantes.
-
-
-
-
-
-
-
-
-
-
-
+Projeto finalizado.
 
 
 
