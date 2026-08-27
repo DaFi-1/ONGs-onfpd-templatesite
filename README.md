@@ -1,5 +1,18 @@
 # ONGs-onfpd-templatesite
 
+## 📋 Informações do projeto
+
+| Status | Stack | Data de início | Data de conclusão | Tempo de desenvolvimento |
+|---|---|---|---|---|
+| ✅ Finalizado | HTML, CSS e JavaScript | Agosto de 2026 | Agosto de 2026 | 3 dias |
+
+### 🛠️ Stack
+
+- **HTML5** — Estrutura
+- **CSS3** — Estilização e design
+- **JavaScript** — Interações e animações
+- **ChatGPT** — Ideação, referências, geração de imagens e auxílio no desenvolvimento
+- **OpenCode** — Desenvolvimento assistido por IA****
 Meu segundo projeto social.
 
 A ideia deste projeto é criar um site para uma ONG voltada para pessoas com autismo. Pensei em fazer algo no estilo "fragmentado", já que o objetivo não é apenas criar um site funcional, mas desenvolver um site temático, visualmente interessante e persuasivo para quem acessá-lo pela primeira vez.
