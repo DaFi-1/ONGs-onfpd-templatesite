@@ -249,25 +249,3 @@ Também utilizei o ChatGPT em conjunto com o OpenCode durante todo o processo.
 Todas as imagens utilizadas no projeto foram geradas pelo ChatGPT, que fez um excelente trabalho nesse aspecto.
 
 No final, o projeto foi finalizado com sucesso.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
