@@ -9,11 +9,8 @@ Site para uma ONG voltada a pessoas com autismo, desenvolvido em HTML, CSS e Jav
 **Conclusão:** 27/08/2026
 **Desenvolvimento:** 3 dias
 
-### 🛠️ Stack
+### 🛠️ Ferramentas utilizadas
 
-- **HTML5** — Estrutura
-- **CSS3** — Estilização e design
-- **JavaScript** — Interações e animações
 - **ChatGPT** — Ideação, referências, geração de imagens e auxílio no desenvolvimento
 - **OpenCode** — Desenvolvimento assistido por IA
 Meu segundo projeto social.
