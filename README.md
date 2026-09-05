@@ -230,7 +230,7 @@ As seções definidas para o site são:
 
 ---
 
-# Considerações finais
+## Considerações finais
 
 O projeto foi finalizado em 3 dias, mas cerca de 90% dele já havia sido desenvolvido em aproximadamente 9 horas. O restante demorou mais por causa dos feedbacks e ajustes solicitados pelo cliente.
 
