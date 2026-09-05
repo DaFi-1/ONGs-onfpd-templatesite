@@ -175,6 +175,18 @@ Também não vou mostrar a seção da galeria para evitar expor as imagens no Gi
 
 ---
 
+## Como executar
+
+Como se trata de um site estático, basta abrir o arquivo `index.html` diretamente no navegador ou subir um servidor local:
+
+```bash
+python3 -m http.server 8000
+```
+
+Depois, é só acessar `http://localhost:8000`.
+
+---
+
 # Considerações finais
 
 O projeto foi finalizado em 3 dias, mas cerca de 90% dele já havia sido desenvolvido em aproximadamente 9 horas. O restante demorou mais por causa dos feedbacks e ajustes solicitados pelo cliente.
