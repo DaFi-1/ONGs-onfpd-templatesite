@@ -38,7 +38,7 @@ Além disso, pensei em fazer com que o site fosse sendo construído conforme o u
 
 A ideia é que os elementos apareçam, se encaixem e formem a composição gradualmente durante a navegação.
 
-Acredito que seja uma boa ideia para testar. Se não funcionar, é só jogar tudo fora e tentar outra abordagem.
+Acredito que seja uma boa ideia para testar. Se não funcionar, é só descartar tudo e tentar outra abordagem.
 
 A IA já cuida da parte mais chata do desenvolvimento, então não faz sentido eu ter um vínculo afetivo com o código. Posso simplesmente experimentar, errar, descartar e começar novamente.
 
