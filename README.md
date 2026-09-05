@@ -21,6 +21,24 @@ Atualmente, estou montando minhas ideias com o ChatGPT, buscando referências e 
 
 ---
 
+## 📑 Índice
+
+- [O início da ideia](#o-início-da-ideia)
+- [O primeiro grande prompt](#o-primeiro-grande-prompt)
+- [Menos framework, mais necessidade](#menos-framework-mais-necessidade)
+- [Primeira versão](#primeira-versão)
+- [A primeira evolução](#a-primeira-evolução)
+- [Segunda parte](#segunda-parte)
+- [Seção de apresentação](#seção-de-apresentação)
+- [Seção de agradecimentos](#seção-de-agradecimentos)
+- [Última parte](#última-parte)
+- [Como executar](#como-executar)
+- [Destaques técnicos](#destaques-técnicos)
+- [Seções do site](#seções-do-site)
+- [Considerações finais](#considerações-finais)
+
+---
+
 ## O início da ideia
 
 Depois de vários prompts e experimentações, cheguei a alguns layouts que começaram a representar melhor o que eu estava buscando.
