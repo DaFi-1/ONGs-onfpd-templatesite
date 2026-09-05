@@ -34,7 +34,7 @@ Esses dois modelos refletem bem a mensagem visual que quero transmitir:
 
 <img width="950" height="1655" alt="image" src="https://github.com/user-attachments/assets/7fc6f83f-bb08-4703-a820-549f8328dc1b" />
 
-Além disso, pensei em fazer com que o site fosse sendo construído conforme o usuário desse scroll pela página.
+Além disso, pensei em fazer com que o site fosse sendo construído conforme o usuário rolasse a página.
 
 A ideia é que os elementos apareçam, se encaixem e formem a composição gradualmente durante a navegação.
 
