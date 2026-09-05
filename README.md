@@ -90,7 +90,7 @@ Um projeto desse tamanho não precisa necessariamente de toda a complexidade que
 
 Eu poderia utilizar frameworks, bibliotecas e diversas outras ferramentas, mas, neste caso, isso acabaria adicionando mais coisas do que eu realmente preciso.
 
-Infelizmente, estou reinventando a roda.
+No fim das contas, estou reinventando a roda.
 
 Porém, com IA, consigo reinventar essa roda em segundos e moldá-la exatamente às minhas necessidades.
 
