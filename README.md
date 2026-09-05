@@ -194,6 +194,22 @@ Depois, é só acessar `http://localhost:8000`.
 - Design system com CSS variables (tokens e estilos base)
 - Imagens e referências geradas por IA (ChatGPT)
 
+## Seções do site
+
+As seções definidas para o site são:
+
+- Hero com composição visual fragmentada
+- Pilares
+- Sobre o Projeto
+- Impacto com contadores animados
+- Citação/Manifesto
+- Projetos
+- Galeria
+- Faça Parte
+- Notícias
+- CTA de Doação
+- Footer
+
 ---
 
 # Considerações finais
