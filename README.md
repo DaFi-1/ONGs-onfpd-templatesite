@@ -13,9 +13,7 @@ Site para uma ONG voltada a pessoas com autismo, desenvolvido em HTML, CSS e Jav
 
 - **ChatGPT** — Ideação, referências, geração de imagens e auxílio no desenvolvimento
 - **OpenCode** — Desenvolvimento assistido por IA
-Meu segundo projeto social.
-
-A ideia deste projeto é criar um site para uma ONG voltada para pessoas com autismo. Pensei em fazer algo no estilo "fragmentado", já que o objetivo não é apenas criar um site funcional, mas desenvolver um site temático, visualmente interessante e persuasivo para quem acessá-lo pela primeira vez.
+Este é o meu segundo projeto social. A ideia deste projeto é criar um site para uma ONG voltada para pessoas com autismo. Pensei em fazer algo no estilo "fragmentado", já que o objetivo não é apenas criar um site funcional, mas desenvolver um site temático, visualmente interessante e persuasivo para quem acessá-lo pela primeira vez.
 
 Este projeto também é um desafio pessoal. Não quero apenas fazer mais um site, mas experimentar uma abordagem diferente de design e interação, tentando transmitir a mensagem da ONG através da própria experiência de navegação.
 
