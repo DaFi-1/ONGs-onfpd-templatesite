@@ -185,6 +185,15 @@ python3 -m http.server 8000
 
 Depois, é só acessar `http://localhost:8000`.
 
+## Destaques técnicos
+
+- Identidade visual fragmentada em peças de quebra-cabeça
+- Composição que se monta conforme o scroll da página
+- Paleta em tons de verde no banner
+- Fonte Nerd Font na identidade visual
+- Design system com CSS variables (tokens e estilos base)
+- Imagens e referências geradas por IA (ChatGPT)
+
 ---
 
 # Considerações finais
