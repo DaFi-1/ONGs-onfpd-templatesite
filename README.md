@@ -180,7 +180,7 @@ Também não vou mostrar a seção da galeria para evitar expor as imagens no Gi
 
 # Considerações finais
 
-O projeto foi finalizado em 3 dias. Porém, cerca de 90% do projeto já havia sido desenvolvido em aproximadamente 9 horas. O restante demorou mais por causa dos feedbacks e ajustes solicitados pelo cliente.
+O projeto foi finalizado em 3 dias, mas cerca de 90% dele já havia sido desenvolvido em aproximadamente 9 horas. O restante demorou mais por causa dos feedbacks e ajustes solicitados pelo cliente.
 
 Nada contra o cliente, e não levem isso para o lado errado: isso é apenas parte da documentação do processo.
 
