@@ -1,5 +1,7 @@
 # ONGs-onfpd-templatesite
 
+Site para uma ONG voltada a pessoas com autismo, desenvolvido em HTML, CSS e JavaScript. O projeto traz um design visual fragmentado em peças de quebra-cabeça, com animações que montam a página conforme a navegação. Criado em 3 dias com apoio de ChatGPT e OpenCode, incluindo imagens geradas por IA.
+
 ## 📋 Informações do projeto
 
 **Status:** 🟢 Finalizado
