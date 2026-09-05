@@ -78,7 +78,7 @@ As etapas definidas inicialmente foram:
 
 ## Menos framework, mais necessidade
 
-Durante esse processo, fiz algumas exigências porque a IA estava começando a viajar demais na arquitetura do projeto.
+Durante esse processo, fiz algumas exigências porque a IA estava começando a exagerar na arquitetura do projeto.
 
 Decidi exigir:
 
