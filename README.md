@@ -20,7 +20,7 @@ A ideia deste projeto é criar um site para uma ONG voltada para pessoas com aut
 
 Este projeto também é um desafio pessoal. Não quero apenas fazer mais um site, mas experimentar uma abordagem diferente de design e interação, tentando transmitir a mensagem da ONG através da própria experiência de navegação.
 
-Atualmente, estou montando minhas ideias com o ChatGPT, buscando referências e ideias criativas para um tipo de contribuição que, inicialmente, eu não fazia a mínima ideia de como desenvolver.
+Atualmente, estou montando minhas ideias com o ChatGPT, buscando referências e ideias criativas para o tipo de contribuição que, inicialmente, eu não tinha a mínima ideia de como desenvolver.
 
 ---
 
