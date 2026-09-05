@@ -40,7 +40,7 @@ A ideia é que os elementos apareçam, se encaixem e formem a composição gradu
 
 Acredito que seja uma boa ideia para testar. Se não funcionar, é só jogar tudo fora e tentar outra abordagem.
 
-A IA já faz grande parte da parte mais chata do desenvolvimento, então não faz sentido eu ter um vínculo afetivo com o código. Posso simplesmente experimentar, errar, descartar e começar novamente.
+A IA já cuida da parte mais chata do desenvolvimento, então não faz sentido eu ter um vínculo afetivo com o código. Posso simplesmente experimentar, errar, descartar e começar novamente.
 
 E, sinceramente, isso é uma das coisas mais interessantes desse processo.
 
