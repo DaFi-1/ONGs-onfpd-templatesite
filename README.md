@@ -126,7 +126,7 @@ Depois de algumas alterações, finalmente cheguei a um formato que considero mu
 
 Agora sim começou a aparecer a identidade que eu estava procurando.
 
-E essa fonte do Nerd Font é simplesmente sensacional.
+E essa fonte Nerd Font é simplesmente sensacional.
 
 ---
 
